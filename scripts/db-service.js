@@ -3,7 +3,7 @@
 // users, progress, gpa, study_sessions, teacher_reviews, quiz_results
 // ================================================================
 
-import { db } from "./firebase-config.js";
+import { db } from "./scripts/firebase-config.js";
 import {
   doc, getDoc, setDoc, updateDoc, addDoc, getDocs,
   collection, query, where, orderBy, limit,
