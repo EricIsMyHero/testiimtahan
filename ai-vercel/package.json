@@ -1,0 +1,6 @@
+{
+  "name": "unec-ai-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "UNEC AI Köməkçi — Vercel Serverless Backend"
+}
