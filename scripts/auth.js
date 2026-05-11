@@ -3,7 +3,7 @@
 // Google login + Email/Password login
 // ================================================================
 
-import { auth, db } from "./firebase-config.js";
+import { auth, db } from "./scripts/firebase-config.js";
 import {
   GoogleAuthProvider,
   signInWithPopup,
